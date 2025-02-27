@@ -1,4 +1,4 @@
-# Malignant Mole Detection 
+# Malignant Mole Detection Using hybrid CNN and Tree-Based Models
 
 ## Repository Link
 
