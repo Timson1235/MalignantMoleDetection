@@ -1,22 +1,23 @@
-# [Your Project Title Here]
+# Malignant Mole Detection 
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/Timson1235/MalignantMoleDetection]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+In this project I tried to classify pictures of moles from the ISIC 2024 - Skin Cancer Detection with 3D-TBP
+[https://www.kaggle.com/competitions/isic-2024-challenge]
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Image Classification
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Combined fine tuned Resnet50 combined with LGBoosted trees and CATrees
+- **Evaluation Metric:** pAUC
+- **Result:** 0.1649
 
 ## Documentation
 
@@ -28,4 +29,4 @@
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/DALL·E 2025-02-27 10.44.06 - A futuristic robot examining a mole on a healthy patient's arm in a medical setting. The robot has a sleek, advanced design with glowing blue eyes and.webp)
